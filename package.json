@@ -17,9 +17,9 @@
   "author": "Lucas Sukino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucasSukino/Teste"
+    "url": "https://github.com/LucasSukino/Teste.git"
   },
-  "homepage": "https://github.com/LucasSukino/Teste",
+  "homepage": "https://github.com/LucasSukino/Teste.git",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
